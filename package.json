@@ -16,5 +16,15 @@
   "bugs": {
     "url": "https://github.com/layc41/tech-blog/issues"
   },
-  "homepage": "https://github.com/layc41/tech-blog#readme"
+  "homepage": "https://github.com/layc41/tech-blog#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "connect-session-sequelize": "^7.0.4",
+    "dotenv": "^8.2.0",
+    "express-handlebars": "^5.2.0",
+    "express-session": "^1.17.1",
+    "express.js": "^1.0.0",
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.3.5"
+  }
 }
